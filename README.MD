@@ -27,7 +27,7 @@ This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified cont
 
 ## 🔥 Updates
 
-* **[2025.08.08]** 🚀 🚀 🚀 We are excited to release **UniFlow**, a powerful unified tokenizer featuring our novel **Layer-wise Adaptative Distillation** and a **Patch-wise Pixel Flow Decoder**. Code and pretrained models are now available!
+* **[2025.10.01]** 🚀 🚀 🚀 We are excited to release **UniFlow**, a powerful unified tokenizer featuring our novel **Layer-wise Adaptative Distillation** and a **Patch-wise Pixel Flow Decoder**. Code and pretrained models are now available!
 
 ## 📖 Quick Start
 
