@@ -1,0 +1,43 @@
+{
+  "architectures": [
+    "UniFlowVisionModel"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_uniflow.UniFlowVisionConfig",
+    "AutoModel": "modeling_uniflow.UniFlowVisionModel"
+  },
+  "attention_dropout": 0.0,
+  "drop_path_rate": 0.1,
+  "dropout": 0.0,
+  "hidden_act": "gelu",
+  "hidden_size": 1024,
+  "image_size": 448,
+  "initializer_factor": 1.0,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-06,
+  "model_type": "uniflow",
+  "norm_type": "layer_norm",
+  "num_attention_heads": 16,
+  "num_channels": 3,
+  "num_hidden_layers": 24,
+  "patch_size": 14,
+  "qk_normalization": false,
+  "qkv_bias": true,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.37.2",
+  "use_flash_attn": true,
+
+  "vit_hidden_size": 1024,
+  "llm_hidden_size": 1536,
+  "use_chal_proj": true,
+  "latent_ch": 64,
+  "use_global_blocks": true,
+  "global_blocks_depth": 6,
+
+  "use_cfg": false,
+  "use_disp_loss": false,
+  "decoder_type": "mlp",
+  "num_decoder_layers": 12,
+  "num_sampling_steps": "1"
+}
