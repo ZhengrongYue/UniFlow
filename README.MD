@@ -20,7 +20,7 @@ This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified cont
 
 
 <p align="center">
-  <img src="./assets/vis.png" width="90%">
+  <img src="./assets/vis.jpg" width="90%">
   <br>
   <em>Various downstream tasks demonstrate UniFlow's robust visual representation.</em>
 </p>
