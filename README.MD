@@ -1,7 +1,7 @@
 <div align="center">
 <h1>⚡ UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.05599-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2508.05599-b31b1b.svg)](https://arxiv.org/abs/2510.10575)
 [![Github](https://img.shields.io/badge/Github-UniFlow-blue)](https://github.com/ZhengrongYue/UniFlow)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/yuezhengrong/UniFlow)
 
