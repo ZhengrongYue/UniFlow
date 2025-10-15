@@ -5,7 +5,14 @@
 [![Github](https://img.shields.io/badge/Github-UniFlow-blue)](https://github.com/ZhengrongYue/UniFlow)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/yuezhengrong/UniFlow)
 
-```
+
+
+</div>
+
+This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified continuous visual tokenizer that eliminates the conflict between semantic understanding and high-fidelity reconstruction. By marrying a pretrained vision encoder with a patch-wise flow decoder, UniFlow delivers state-of-the-art reconstruction and multimodal understanding via a single encoder tokenizer, while surpassing both discrete and continuous counterparts. <br><br>
+
+
+```bibtex
 @misc{yue2025uniflowunifiedpixelflow,
       title={UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation}, 
       author={Zhengrong Yue and Haiyu Zhang and Xiangyu Zeng and Boyu Chen and Chenting Wang and Shaobin Zhuang and Lu Dong and KunPeng Du and Yi Wang and Limin Wang and Yali Wang},
@@ -16,12 +23,6 @@
       url={https://arxiv.org/abs/2510.10575}, 
 }
 ```
-
-</div>
-
-This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified continuous visual tokenizer that eliminates the conflict between semantic understanding and high-fidelity reconstruction. By marrying a pretrained vision encoder with a patch-wise flow decoder, UniFlow delivers state-of-the-art reconstruction and multimodal understanding via a single encoder tokenizer, while surpassing both discrete and continuous counterparts. <br><br>
-
-
 
 <p align="center">
   <img src="./assets/intro.jpg" width="90%">
