@@ -12,17 +12,6 @@
 This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified continuous visual tokenizer that eliminates the conflict between semantic understanding and high-fidelity reconstruction. By marrying a pretrained vision encoder with a patch-wise flow decoder, UniFlow delivers state-of-the-art reconstruction and multimodal understanding via a single encoder tokenizer, while surpassing both discrete and continuous counterparts. <br><br>
 
 
-```bibtex
-@misc{yue2025uniflowunifiedpixelflow,
-      title={UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation}, 
-      author={Zhengrong Yue and Haiyu Zhang and Xiangyu Zeng and Boyu Chen and Chenting Wang and Shaobin Zhuang and Lu Dong and KunPeng Du and Yi Wang and Limin Wang and Yali Wang},
-      year={2025},
-      eprint={2510.10575},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.10575}, 
-}
-```
 
 <p align="center">
   <img src="./assets/intro.jpg" width="90%">
@@ -57,3 +46,19 @@ bash quick_start.ipynb
 Our work builds upon the foundations laid by many excellent projects in the field. We would like to thank the authors of [MAR](https://github.com/LTH14/mar). We also drew inspiration from the methodologies presented in [FlowMo](https://github.com/kylesargent/FlowMo/), [InternVideo2](https://github.com/OpenGVLab/InternVideo/tree/main). We are grateful for their contributions to the community.
 
 
+## 📘 Cite
+```bibtex
+@misc{yue2025uniflowunifiedpixelflow,
+      title={UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation}, 
+      author={Zhengrong Yue and Haiyu Zhang and Xiangyu Zeng and Boyu Chen and Chenting Wang and Shaobin Zhuang and Lu Dong and KunPeng Du and Yi Wang and Limin Wang and Yali Wang},
+      year={2025},
+      eprint={2510.10575},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.10575}, 
+}
+```
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZhengrongYue/UniFlow&type=date&legend=top-left)](https://www.star-history.com/#ZhengrongYue/UniFlow&type=date&legend=top-left)
