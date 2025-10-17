@@ -35,9 +35,9 @@ This project presents **UniFlow** (Unified Pixel Flow Tokenizer), a unified cont
 
 ### Inference
 
-Simply test the effect of each model reconstruction:
+Simply test the effect of reconstruction:
 ```
-bash quick_start.ipynb
+quick_start.ipynb
 ```
 
 
