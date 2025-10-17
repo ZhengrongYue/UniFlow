@@ -46,7 +46,7 @@ bash quick_start.ipynb
 Our work builds upon the foundations laid by many excellent projects in the field. We would like to thank the authors of [MAR](https://github.com/LTH14/mar). We also drew inspiration from the methodologies presented in [FlowMo](https://github.com/kylesargent/FlowMo/), [InternVideo2](https://github.com/OpenGVLab/InternVideo/tree/main). We are grateful for their contributions to the community.
 
 
-## 📘 Cite
+## 📘 Citation
 ```bibtex
 @misc{yue2025uniflowunifiedpixelflow,
       title={UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation}, 
